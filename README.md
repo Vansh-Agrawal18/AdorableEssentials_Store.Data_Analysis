@@ -28,7 +28,7 @@ Category Analysis: Identified the highest selling categories.
 Developed interactive dashboards in Excel to visualize and summarize the findings.
 Enabled stakeholders to gain insights through dynamic and user-friendly interfaces.
 
-#**Insights & Results**
+# Insights & Results
 The analysis provided actionable insights including:
 
 Monthly Sales Trends: Identified which months had the highest and lowest sales, guiding seasonal marketing strategies.
