@@ -1,4 +1,4 @@
-                                                         # **AdorableEssentials Annual Sales Report - 2022**
+                                                         #**AdorableEssentials Annual Sales Report - 2022**
 Overview
 This repository contains the annual sales report for AdorableEssentials store for the year 2022. The objective of this project was to analyze sales data to help the store understand their customers better and identify opportunities for growth in 2023.
 
