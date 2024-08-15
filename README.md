@@ -1,19 +1,20 @@
-                                                         #**AdorableEssentials Annual Sales Report - 2022**
-Overview
+# AdorableEssentials Annual Sales Report - 2022
+
+# Overview
 This repository contains the annual sales report for AdorableEssentials store for the year 2022. The objective of this project was to analyze sales data to help the store understand their customers better and identify opportunities for growth in 2023.
 
-Project Contents
+# Project Contents
 The project involves various steps from data cleaning and processing to analysis and visualization. The key components of this project include:
 
-Data Cleaning:
+# Data Cleaning:
 
 Ensured data accuracy and consistency.
 Handled missing values and outliers.
-Data Processing:
+# Data Processing:
 
 Aggregated and transformed data for analysis.
 Created relevant metrics and KPIs.
-Data Analysis:
+# Data Analysis:
 
 Monthly Sales Comparison: Compared sales and orders across different months to identify the peak sales periods.
 Gender-Based Analysis: Compared purchase behaviors between different genders.
@@ -23,7 +24,7 @@ Age and Gender Relationship: Analyzed the relationship between age and gender in
 Sales Channel Analysis: Determined which sales channels were contributing the most to overall sales.
 Category Analysis: Identified the highest selling categories.
 
-Dashboard Creation:
+# Dashboard Creation:
 Developed interactive dashboards in Excel to visualize and summarize the findings.
 Enabled stakeholders to gain insights through dynamic and user-friendly interfaces.
 
